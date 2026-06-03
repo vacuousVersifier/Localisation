@@ -1636,7 +1636,7 @@ STR_2323    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}m²
 STR_2324    :{WINDOW_COLOUR_2}Park size: {BLACK}{COMMA32}sq.ft.
 STR_2325    :Buy land to extend park
 STR_2326    :Buy construction rights to allow construction above or below land outside the park
-STR_2327    :Options
+STR_2327    :lawa
 STR_2328    :{WINDOW_COLOUR_2}Currency:
 STR_2329    :{WINDOW_COLOUR_2}Distance and Speed:
 STR_2330    :{WINDOW_COLOUR_2}Temperature:
@@ -2467,11 +2467,11 @@ STR_5262    :Wacky Worlds
 STR_5263    :Time Twister
 STR_5264    :Custom
 STR_5265    :Select which content sources are visible
-STR_5266    :Display
-STR_5267    :Culture and Units
-STR_5268    :Audio
-STR_5269    :Controls
-STR_5270    :Miscellaneous
+STR_5266    :pana sitelen
+STR_5267    :nimi nanpa
+STR_5268    :kalama
+STR_5269    :lawa
+STR_5270    :lawa ante
 STR_5272    :Small Scenery
 STR_5273    :Large Scenery
 STR_5274    :Footpath
@@ -2790,7 +2790,7 @@ STR_5724    :Thunderstorm
 STR_5725    :{BLACK}Change weather to:
 STR_5726    :Sets the current weather in the park
 # tooltip for tab in options window
-STR_5734    :Rendering
+STR_5734    :pali sitelen
 STR_5735    :Network Status
 STR_5736    :Player
 STR_5737    :Closed, {COMMA16} person still on ride
@@ -3758,10 +3758,10 @@ STR_6758    :Loan options
 STR_6759    :Business model
 STR_6760    :Earnings:
 STR_6761    :Scenario Details
-STR_6762    :Interface
+STR_6762    :poki
 STR_6763    :RollerCoaster Tycoon 1
 STR_6764    :Saving and autosaves
-STR_6765    :Advanced
+STR_6765    :nasa
 STR_6766    :Clear
 STR_6767    :Window
 STR_6768    :Rendering
