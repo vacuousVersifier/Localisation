@@ -258,7 +258,7 @@ STR_0878    :Too high!
 STR_0879    :Can’t lower land here…
 STR_0880    :Can’t raise land here…
 STR_0881    :Object in the way
-STR_0882    :Load Game
+STR_0882    :o alasa e musi
 STR_0883    :Save Game
 STR_0884    :Load Landscape
 STR_0885    :Save Landscape
@@ -345,8 +345,8 @@ STR_0968    :+360°
 STR_0969    :+405°
 STR_0970    :+450°
 STR_0971    :+495°
-STR_0972    :Cancel
-STR_0973    :OK
+STR_0972    :o weka
+STR_0973    :o awen
 STR_0974    :Rides
 STR_0975    :Shops and Stalls
 STR_0976    :Toilets and Information Kiosks
@@ -2603,12 +2603,12 @@ STR_5493    :Send Message
 STR_5495    :Player List
 STR_5496    :Player
 STR_5497    :Ping
-STR_5498    :Server List
-STR_5499    :Player Name:
-STR_5500    :Add Server
-STR_5501    :Start Server
+STR_5498    :kulupu pi ilo weka
+STR_5499    :nimi sina
+STR_5500    :o pana e ilo weka
+STR_5501    :o open e ilo weka
 STR_5502    :Multiplayer
-STR_5503    :Enter hostname or IP address:
+STR_5503    :o pana e nimi pi ilo weka anu nanpa pi ilo weka:
 STR_5504    :Show multiplayer status
 STR_5505    :Unable to connect to server.
 STR_5506    :Guests ignore intensities
@@ -2665,17 +2665,17 @@ STR_5560    :Sets the inspection time to ‘Every 10 minutes’ on all rides
 STR_5561    :Failed to load language
 STR_5562    :WARNING!
 STR_5563    :This feature is currently unstable, take extra caution.
-STR_5566    :Password:
-STR_5567    :Advertise
+STR_5566    :nimi len:
+STR_5567    :o pana tawa jan ante
 STR_5568    :Password Required
 STR_5569    :This server requires a password
-STR_5570    :Fetch Servers
+STR_5570    :o alasa e ilo weka
 STR_5571    :Join Game
 STR_5572    :Add To Favourites
 STR_5573    :Remove From Favourites
-STR_5574    :Server Name:
-STR_5575    :Max Players:
-STR_5576    :Port:
+STR_5574    :nimi ilo:
+STR_5575    :nanpa pi jan ken:
+STR_5576    :nanpa kute:
 STR_5577    :South Korean Won (W)
 STR_5578    :Russian Rouble (₽)
 STR_5579    :Window scale factor:
@@ -2776,10 +2776,10 @@ STR_5711    :Enter new name for this group:
 STR_5712    :Can’t modify permission that you do not have yourself
 STR_5713    :Kick Player
 STR_5714    :Show options window
-STR_5715    :New Game
+STR_5715    :o pali e musi sin
 STR_5716    :Not allowed in multiplayer mode
 # For identifying client network version in server list window
-STR_5717    :Network version: {STRING}
+STR_5717    :ante pi ilo kulupu: {STRING}
 STR_5718    :Network version: {STRING}
 STR_5719    :Sunny
 STR_5720    :Partially Cloudy
@@ -2843,7 +2843,7 @@ STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
 STR_5784    :{BLACK}o pini e tenpo ante la sina kama jo e tenpo ni.
 STR_5785    :Can’t rename group…
 STR_5786    :Invalid group name
-STR_5787    :{COMMA32} players online
+STR_5787    :{COMMA32} li lon
 STR_5788    :Default inspection interval:
 STR_5789    :Disable lightning effect
 STR_5790    :Toggles RCT1-style pricing{NEWLINE}(e.g. both ride price and entrance price)
@@ -2861,7 +2861,7 @@ STR_5801    :Disable littering
 STR_5802    :Stops guests from littering and vomiting
 STR_5803    :Rotate selected map element
 STR_5804    :Mute sound
-STR_5805    :If checked, your server will be added to the{NEWLINE}public server list so everyone can find it
+STR_5805    :sina ante e ni la ilo ni li pana tawa kulupu pi ilo weka. jan ale list so everyone can find it
 STR_5806    :Toggle windowed mode
 STR_5807    :{WINDOW_COLOUR_2}Number of rides: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}Number of shops and stalls: {BLACK}{COMMA16}
@@ -3079,8 +3079,8 @@ STR_6027    :Construction - Next track
 STR_6028    :Construction - Build current
 STR_6029    :Construction - Demolish current
 STR_6030    :Scenery picker. Click any scenery on the map to select the same piece for construction.
-STR_6031    :Server Description:
-STR_6032    :Server Greeting:
+STR_6031    :toki ilo:
+STR_6032    :toki ilo tawa jan sin:
 STR_6033    :Path to RCT1 installation:
 STR_6034    :{BLACK}{STRING}
 STR_6035    :Please select your RCT1 directory
@@ -3187,8 +3187,8 @@ STR_6144    :Show dirty visuals
 STR_6145    :Set speed limit for boosters
 STR_6146    :Enable all drawable track pieces
 STR_6147    :Enables all track pieces the ride type is capable of in the construction window, regardless of whether the vehicle supports them.
-STR_6148    :Connecting to master server…
-STR_6149    :Unable to connect to master server
+STR_6148    :mi kama toki tawa ilo weka lawa…
+STR_6149    :mi ken ala toki tawa ilo weka lawa
 STR_6150    :Invalid response from master server (no JSON number)
 STR_6151    :Master server failed to return servers
 STR_6152    :Invalid response from master server (no JSON array)
