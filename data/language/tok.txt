@@ -1667,7 +1667,7 @@ STR_2355    :{WINDOW_COLOUR_2}Rides fixed: {BLACK}{COMMA32}
 STR_2356    :{WINDOW_COLOUR_2}Rides inspected: {BLACK}{COMMA32}
 STR_2358    :Units
 STR_2359    :Real Values
-STR_2360    :Display Resolution:
+STR_2360    :nanpa pi suli lipu:
 STR_2361    :Landscape Smoothing
 STR_2362    :Toggle landscape tile edge smoothing on/off
 STR_2363    :Gridlines on Landscape
@@ -1923,9 +1923,9 @@ STR_2766    :Win scenario
 STR_2767    :Disable weather changes
 STR_2769    :Open park
 STR_2770    :Close park
-STR_2773    :Windowed
-STR_2774    :Fullscreen
-STR_2775    :Fullscreen (borderless window)
+STR_2773    :lili
+STR_2774    :suli
+STR_2775    :suli ale ken li lon
 STR_2776    :Language:
 STR_2777    :{MOVE_X}{10}{STRING}
 STR_2778    :»{MOVE_X}{10}{STRING}
@@ -2380,7 +2380,7 @@ STR_5160    :{POP16}{MONTH} {PUSH16}{PUSH16}{STRINGID}, Year {POP16}{COMMA16}
 STR_5161    :Date Format:
 STR_5162    :Day/Month/Year
 STR_5163    :Month/Day/Year
-STR_5177    :Screen mode:
+STR_5177    :suli lipu:
 STR_5178    :Show financial cheats
 STR_5179    :Show guest cheats
 STR_5180    :Show park cheats
@@ -2552,7 +2552,7 @@ STR_5374    :Date modified {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
 STR_5404    :Name already exists
-STR_5440    :Minimise fullscreen on focus loss
+STR_5440    :wawa lawa li weka la o lili e lipu
 STR_5442    :Force park rating:
 STR_5447    :Type {STRINGID}
 STR_5448    :Ride / Vehicle {STRINGID}
@@ -2678,9 +2678,9 @@ STR_5575    :nanpa pi jan ken:
 STR_5576    :nanpa kute:
 STR_5577    :South Korean Won (W)
 STR_5578    :Russian Rouble (₽)
-STR_5579    :Window scale factor:
+STR_5579    :o suli e lipu kepeken nanpa:
 STR_5580    :Czech koruna (Kč)
-STR_5581    :Show FPS
+STR_5581    :o pana e nanpa sitelen
 STR_5582    :Trap mouse cursor in window
 STR_5583    :{COMMA1DP16} m/s
 STR_5584    :SI
@@ -2861,7 +2861,7 @@ STR_5801    :Disable littering
 STR_5802    :Stops guests from littering and vomiting
 STR_5803    :Rotate selected map element
 STR_5804    :Mute sound
-STR_5805    :sina ante e ni la ilo ni li pana tawa kulupu pi ilo weka. jan ale list so everyone can find it
+STR_5805    :sina ante e ni la ilo ni li pana tawa kulupu pi ilo weka. jan ale li ken alasa e ilo ni.
 STR_5806    :Toggle windowed mode
 STR_5807    :{WINDOW_COLOUR_2}Number of rides: {BLACK}{COMMA16}
 STR_5808    :{WINDOW_COLOUR_2}Number of shops and stalls: {BLACK}{COMMA16}
@@ -2873,9 +2873,9 @@ STR_5813    :“{STRING}”
 STR_5814    :{WINDOW_COLOUR_1}“{STRING}”
 
 #tooltips
-STR_5815    :Display FPS counter in-game
-STR_5816    :Sets ratio to scale the game by.{NEWLINE}Most useful when playing in{NEWLINE}high resolutions
-STR_5820    :Minimise the game if focus is{NEWLINE}lost while in fullscreen mode
+STR_5815    :ni li pana e nanpa sitelen lon tenpo musi.
+STR_5816    :nanpa ni li ante e suli lipu.{NEWLINE}sina jo e lipu suli la ni li pona
+STR_5820    :wawa lawa li weka la, lipu ni li lili. 
 STR_5822    :Cycle between day and night.{NEWLINE}Full cycle takes one in-game month
 STR_5823    :Display banners in uppercase (RCT1 behaviour)
 STR_5824    :Disables lightning effect{NEWLINE}during a thunderstorm
@@ -2906,8 +2906,8 @@ STR_5849    :Automatically place{NEWLINE}newly hired staff members
 STR_5851    :Sets the default inspection interval{NEWLINE}on newly built rides
 STR_5853    :Toggle sound effects on/off
 STR_5854    :Toggle ride music on/off
-STR_5855    :Set regular fullscreen, borderless fullscreen{NEWLINE}or windowed display
-STR_5856    :Set game resolution when in fullscreen mode
+STR_5855    :o ante e suli lipu. sina ken kepeken e suli mute
+STR_5856    :lipu li leko lili mute. o awen e nanpa leko lon lipu
 STR_5857    :lawa musi
 STR_5858    :Use GPU for displaying instead of CPU. Improves compatibility with screen capture software. May slightly decrease performance.
 STR_5859    :Enables frame tweening for visually{NEWLINE}smoother gameplay. When disabled,{NEWLINE}the game will run at 40 FPS.
@@ -2926,11 +2926,11 @@ STR_5871    :Disable plants withering
 STR_5872    :Disable plant ageing such that they don’t wilt.
 STR_5873    :Allow chain lifts on all track pieces
 STR_5874    :Allows any piece of track to be made into a chain lift
-STR_5875    :Drawing Engine:
-STR_5876    :The engine to use for drawing the game.
-STR_5877    :Software
+STR_5875    :ilo sitelen:
+STR_5876    :ilo ni li sitelen e musi. ilo OpenGL li ken pali ala
+STR_5877    :ilo
 STR_5878    :Software (hardware display)
-STR_5879    :OpenGL (experimental)
+STR_5879    :ilo OpenGL (nasa)
 STR_5880    :Selected only
 STR_5881    :Non-selected only
 STR_5882    :Custom currency
@@ -3303,8 +3303,8 @@ STR_6301    :Copy the selected object name to the clipboard.
 STR_6302    :Copy the entire list of missing objects to the clipboard.
 STR_6303    :Downloading object ({COMMA16} / {COMMA16}): [{STRING}]
 STR_6304    :Open scenery picker
-STR_6305    :Multithreading
-STR_6306    :Experimental option to use multiple threads to render, may cause instability.
+STR_6305    :o kepeken e nasin mute
+STR_6306    :ilo li ken kepeken e nasin nasa.{NEWLINE}nasin li kepeken e ilo mute.{NEWLINE}nasin li pona tawa ilo sitelen.{NEWLINE}ni li ken kama e ike.
 STR_6307    :Colour scheme: {BLACK}{STRINGID}
 STR_6308    :{TOPAZ}“{STRINGID}{TOPAZ}”{NEWLINE}{STRINGID}
 STR_6309    :Reconnect
@@ -3391,8 +3391,8 @@ STR_6392    :Could not find {STRING} at this path.
 STR_6393    :Objective Selection
 STR_6394    :Objective
 STR_6395    :Maintenance
-STR_6396    :Disable screensaver and monitor power saving
-STR_6397    :If checked, screensaver and other monitor power saving features will be inhibited while OpenRCT2 is running.
+STR_6396    :ilo li lili e wawa la o pini e ilo
+STR_6397    :sina ante e ni la, ilo ni li pini: ilo li lili e wawa. ilo suli sina li kepeken e wawa.
 STR_6398    :File contains unsupported ride types. Please update to a newer version of OpenRCT2.
 STR_6399    :OpenRCT2 needs files from the original RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic in order to work. Please set the “game_path” variable in config.ini to the directory where you installed RollerCoaster Tycoon 2 or RollerCoaster Tycoon Classic, then restart OpenRCT2.
 STR_6400    :I have the GOG offline installer for RollerCoaster Tycoon 2 downloaded, but it is not installed
@@ -3763,13 +3763,13 @@ STR_6763    :RollerCoaster Tycoon 1
 STR_6764    :Saving and autosaves
 STR_6765    :nasa
 STR_6766    :Clear
-STR_6767    :Window
-STR_6768    :Rendering
-STR_6769    :Behaviour
-STR_6770    :Frame rate limit:
-STR_6771    :Internal speed (default)
-STR_6772    :Vertical sync
-STR_6773    :Unrestricted
+STR_6767    :lipu
+STR_6768    :sitelen
+STR_6769    :pali
+STR_6770    :ken pi wawa sitelen:
+STR_6771    :nasa ala
+STR_6772    :o kama sama e ilo sitelen 
+STR_6773    :ken ale
 STR_6774    :Time since last inspection
 STR_6775    :{COMMA16} minute
 STR_6776    :{COMMA16} minutes
