@@ -537,7 +537,7 @@ STR_1164    :{STRINGID}{NEWLINE}(Right-Click to Remove)
 STR_1165    :{STRINGID} - {STRINGID} {COMMA16}
 STR_1166    :Can’t lower water level here…
 STR_1167    :Can’t raise water level here…
-STR_1168    :Options
+STR_1168    :lawa
 STR_1169    :(None)
 STR_1170    :{STRING}
 STR_1171    :{RED}Closed
@@ -1253,9 +1253,9 @@ STR_1916    :{WINDOW_COLOUR_2}Loan:
 STR_1918    :Can’t borrow any more money!
 STR_1919    :Not enough cash available!
 STR_1920    :Can’t pay back loan!
-STR_1921    :Start a new game
-STR_1922    :Continue playing a saved game
-STR_1924    :Exit
+STR_1921    :o open e musi sin
+STR_1922    :o open a musi pi sin ala
+STR_1924    :o weka
 STR_1925    :Can’t place person here…
 STR_1927    :{YELLOW}{STRINGID} has broken down
 STR_1928    :{RED}{STRINGID} has crashed!
@@ -2287,11 +2287,11 @@ STR_3336    :Track Designs Manager - Select Ride Type
 STR_3338    :{BLACK}Custom-designed layout
 STR_3339    :{BLACK}{COMMA16} design available, or custom-designed layout
 STR_3340    :{BLACK}{COMMA16} designs available, or custom-designed layout
-STR_3341    :Game tools
-STR_3342    :Scenario Editor
-STR_3343    :Convert saved game to scenario
-STR_3344    :Track Designer
-STR_3345    :Track Designs Manager
+STR_3341    :ilo musi
+STR_3342    :ilo ante tenpo
+STR_3343    :o ante e musi tawa tenpo
+STR_3344    :ilo pali pi nasin musi
+STR_3345    :lawa pi ilo pali
 STR_3346    :Can’t save track design…
 STR_3347    :Ride is too large, contains too many elements, or scenery is too spread out
 STR_3348    :Rename
@@ -2687,7 +2687,7 @@ STR_5584    :SI
 STR_5585    :Unlocks ride operation limits, allowing for things like {VELOCITY} lift hills
 STR_5586    :Automatically open shops and stalls
 STR_5587    :Shops and stalls will be automatically opened after building them
-STR_5588    :Play with other players
+STR_5588    :o musi lon poka pi jan ante
 STR_5589    :Notification Settings
 STR_5590    :Park awards
 STR_5591    :Marketing campaign has finished
@@ -2908,7 +2908,7 @@ STR_5853    :Toggle sound effects on/off
 STR_5854    :Toggle ride music on/off
 STR_5855    :Set regular fullscreen, borderless fullscreen{NEWLINE}or windowed display
 STR_5856    :Set game resolution when in fullscreen mode
-STR_5857    :Game options
+STR_5857    :lawa musi
 STR_5858    :Use GPU for displaying instead of CPU. Improves compatibility with screen capture software. May slightly decrease performance.
 STR_5859    :Enables frame tweening for visually{NEWLINE}smoother gameplay. When disabled,{NEWLINE}the game will run at 40 FPS.
 STR_5860    :Toggle original/decompiled track drawing
@@ -3273,7 +3273,7 @@ STR_6262    :Master volume
 STR_6263    :Toggle all sound on/off
 STR_6264    :Always use system file browser
 STR_6265    :When enabled, your operating system’s file browser will be used instead of OpenRCT2’s.
-STR_6266    :Open custom content folder
+STR_6266    :o open e poki pi ijo sin
 STR_6267    :Open tile inspector
 STR_6268    :Advance to next tick
 STR_6269    :Invalid climate ID
