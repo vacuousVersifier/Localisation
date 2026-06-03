@@ -1882,7 +1882,7 @@ STR_2703    :Every 15 minutes
 STR_2704    :Every 30 minutes
 STR_2705    :Every hour
 STR_2706    :Never
-STR_2707    :Use system file browser
+STR_2707    :o kepeken ilo alasa poki pi ilo sina
 STR_2708    :{WINDOW_COLOUR_1}Are you sure you want to overwrite {STRINGID}?
 STR_2709    :Overwrite
 STR_2720    :{UINT16}sec
@@ -2547,7 +2547,7 @@ STR_5367    :Fast
 STR_5368    :Reset crash status
 STR_5371    :Object selection
 STR_5372    :Invert right mouse dragging
-STR_5373    :Name {STRINGID}
+STR_5373    :nimi {STRINGID}
 STR_5374    :Date modified {STRINGID}
 STR_5375    :▲
 STR_5376    :▼
@@ -2942,7 +2942,7 @@ STR_5887    :Prefix
 STR_5888    :Suffix
 STR_5889    :Custom currency symbol
 STR_5890    :Enter the currency symbol to display
-STR_5892    :Go to the default directory
+STR_5892    :o tawa poki pi nasa ala
 STR_5893    :Exchange Rate
 STR_5894    :Enter the exchange rate
 STR_5895    :Save Track
@@ -3033,7 +3033,7 @@ STR_5981    :Not a banner
 STR_5982    :Large scenery type: {BLACK}{COMMA16}
 STR_5983    :Large scenery piece ID: {BLACK}{COMMA16}
 STR_5984    :Blocked paths:
-STR_5985    :New folder
+STR_5985    :poki sin
 STR_5986    :Type the name of the new folder.
 STR_5987    :Unable to create folder
 STR_5988    :No remaining land rights for sale
@@ -3713,7 +3713,7 @@ STR_6713    :{COMMA32} {STRINGID}
 STR_6714    :Filename
 STR_6715    :Date modified
 STR_6716    :File size
-STR_6717    :File size {STRINGID}
+STR_6717    :wawa lipu {STRINGID}
 STR_6718    :Peep Animations
 STR_6719    :At least one guest peep animations object must be selected
 STR_6720    :At least one handyman peep animations object must be selected
@@ -3731,7 +3731,7 @@ STR_6731    :Import emscripten data
 STR_6732    :Show a button in the toolbar to rotate the view anti-clockwise
 STR_6733    :See-Through
 STR_6734    :Map elements that are at or above the cutting height are rendered translucent.
-STR_6735    :Go up to parent folder
+STR_6735    :o tawa poki mama
 STR_6736    :Preview
 STR_6737    :No preview available
 STR_6738    :{WINDOW_COLOUR_2}Park rating: {BLACK}{UINT16}
