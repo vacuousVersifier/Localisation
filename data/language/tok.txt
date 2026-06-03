@@ -234,8 +234,8 @@ STR_0824    :{BLACK}❌
 STR_0825    :Chosen name in use already
 STR_0826    :Too many names defined
 STR_0827    :Not enough cash - requires {CURRENCY2DP}
-STR_0828    :Close window
-STR_0829    :Window title - Drag this to move window
+STR_0828    :o weka e lipu ni
+STR_0829    :nimi lipu - o tawa e lipu ni
 STR_0830    :Zoom view in
 STR_0831    :Zoom view out
 STR_0832    :Rotate view 90° clockwise
@@ -1604,7 +1604,7 @@ STR_2286    :Designing
 STR_2287    :Completing design
 STR_2288    :Unknown
 STR_2289    :{STRINGID} {STRINGID}
-STR_2291    :Select scenario for new game
+STR_2291    : o wile e tenpo tawa musi sin
 STR_2292    :{WINDOW_COLOUR_2}Rides been on:
 STR_2293    :{BLACK} Nothing
 STR_2294    :Change base land style
@@ -1691,31 +1691,31 @@ STR_2380    :Adjust smaller area of water
 STR_2381    :Adjust larger area of water
 STR_2382    :Land
 STR_2383    :Water
-STR_2384    :{WINDOW_COLOUR_2}Your objective:
-STR_2385    :{BLACK}None
-STR_2386    :{BLACK}To have at least {COMMA32} guests in your park at the end of {MONTHYEAR_SENTENCE}, with a park rating of at least 600
-STR_2387    :{BLACK}To achieve a park value of at least {POP16}{POP16}{CURRENCY} at the end of {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
-STR_2388    :{BLACK}Have Fun!
-STR_2389    :{BLACK}Build the best {STRINGID} you can!
-STR_2390    :{BLACK}To have 10 different types of roller coasters operating in your park, each with an excitement value of at least 6.00
-STR_2391    :{BLACK}To have at least {COMMA32} guests in your park. You must not let the park rating drop below 700 at any time!
-STR_2392    :{BLACK}To achieve a monthly income from ride tickets of at least {POP16}{POP16}{CURRENCY}
-STR_2393    :{BLACK}To have 10 different types of roller coasters operating in your park, each with a minimum length of {LENGTH}, and an excitement rating of at least 7.00
-STR_2394    :{BLACK}To finish building all 5 of the partially built roller coasters in this park, designing them to achieve excitement ratings of at least {POP16}{POP16}{COMMA2DP32} each
-STR_2395    :{BLACK}To repay your loan and achieve a park value of at least {POP16}{POP16}{CURRENCY}
-STR_2396    :{BLACK}To achieve a monthly profit from food, drink and merchandise sales of at least {POP16}{POP16}{CURRENCY}
-STR_2397    :None
-STR_2398    :Number of guests at a given date
-STR_2399    :Park value at a given date
-STR_2400    :Have fun
-STR_2401    :Build the best ride you can
-STR_2402    :Build 10 roller coasters
-STR_2403    :Number of guests in park
-STR_2404    :Monthly income from ride tickets
-STR_2405    :Build 10 roller coasters of a given length
-STR_2406    :Finish building 5 roller coasters
-STR_2407    :Repay loan and achieve a given park value
-STR_2408    :Monthly profit from food/merchandise
+STR_2384    :{WINDOW_COLOUR_2}wile sina:
+STR_2385    :{BLACK}ala
+STR_2386    :{BLACK}o jo e jan {COMMA32} e mani ma 600 lon tenpo {MONTHYEAR_SENTENCE}
+STR_2387    :{BLACK}o jo e mani tomo {POP16}{POP16}{CURRENCY} lon tenpo {PUSH16}{PUSH16}{PUSH16}{PUSH16}{PUSH16}{MONTHYEAR_SENTENCE}
+STR_2388    :{BLACK}o musi!
+STR_2389    :{BLACK}o pali e {STRINGID} nanpa wan!
+STR_2390    :{BLACK}o jo e ni: kule luka luka pi ilo tawa musi li pali lon ma sina. ale o jo e mani pi pilin wawa 6.00
+STR_2391    :{BLACK}o jo e jan {COMMA32} lon ma sina. tenpo ale la, sina ken ala lili e mani ma sina tawa mani 700!
+STR_2392    :{BLACK}o kama jo e mani {POP16}{POP16}{CURRENCY} tan esun musi lon tenpo mun ale
+STR_2393    :{BLACK}o jo e ni: kule luka luka pi ilo tawa musi li pali lon ma sina. ale o jo e suli {LENGTH} e mani pi pilin wawa 7.00
+STR_2394    :{BLACK}o pini e ni: sina pali e ilo luka lon ma ni. ale o jo e mani pi pilin wawa {POP16}{POP16}{COMMA2DP32}
+STR_2395    :{BLACK}o weka e mani sina tawa wile mani sina. o jo e mani tomo {POP16}{POP16}{CURRENCY}
+STR_2396    :{BLACK}o kama jo e mani {POP16}{POP16}{CURRENCY} tan esun moku anu esun ilo lon tenpo mun ale
+STR_2397    :ala
+STR_2398    :nanpa jan lon tenpo pana
+STR_2399    :mani tomo lon tenpo pana
+STR_2400    :o musi
+STR_2401    :o pali e musi nanpa wan
+STR_2402    :o pali e ilo luka luka pi tawa musi
+STR_2403    :nanpa jan lon ma
+STR_2404    :kama mani tan esun musi lon tenpo mun
+STR_2405    :o pali e ilo luka luka pi tawa musi. ale li jo e suli pana
+STR_2406    :o pini e ni: sina pali e ilo luka
+STR_2407    :o weka e mani sina tawa wile mani sina. o jo e mani tomo pana
+STR_2408    :kama mani tan esun moku anu esun ilo lon tenpo mun
 STR_2409    :{WINDOW_COLOUR_2}Marketing campaigns in operation
 STR_2410    :{BLACK}None
 STR_2411    :{WINDOW_COLOUR_2}Marketing campaigns available
@@ -1944,8 +1944,8 @@ STR_2789    :{WINDOW_COLOUR_2}You have failed your objective!
 STR_2790    :Enter name into scenario chart
 STR_2791    :Enter name
 STR_2792    :Please enter your name for the scenario chart:
-STR_2793    :(Completed by {STRINGID})
-STR_2794    :{WINDOW_COLOUR_2}Completed by: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2} with a company value of: {BLACK}{CURRENCY}
+STR_2793    :(pini tan {STRINGID})
+STR_2794    :{WINDOW_COLOUR_2}pini tan: {BLACK}{STRINGID}{NEWLINE}{WINDOW_COLOUR_2}mani lawa: {BLACK}{CURRENCY}
 STR_2795    :Sort
 STR_2796    :Sort the ride list into order using the information type displayed
 STR_2797    :Scroll view when pointer at screen edge
@@ -2065,11 +2065,11 @@ STR_3060    :Ice blocks
 STR_3061    :Wooden fences
 STR_3062    :Standard roller coaster track
 STR_3063    :Water channel (track submerged)
-STR_3064    :Beginner Parks
-STR_3065    :Challenging Parks
-STR_3066    :Expert Parks
-STR_3067    :“Real” Parks
-STR_3068    :Other Parks
+STR_3064    :ma wawa lili
+STR_3065    :ma wawa
+STR_3066    :ma wawa mute
+STR_3067    :ma lon
+STR_3068    :ma ante
 STR_3069    :Top Section
 STR_3070    :Slope to Level
 STR_3071    :{WINDOW_COLOUR_2}Same price throughout park
@@ -2243,7 +2243,7 @@ STR_3281    :Entry price:
 STR_3283    :Select rides to be preserved
 STR_3285    :Scenario options - Preserved Rides
 STR_3286    :Select objective for this scenario
-STR_3287    :{WINDOW_COLOUR_2}Objective:
+STR_3287    :{WINDOW_COLOUR_2}wile:
 STR_3294    :Change…
 STR_3295    :Change name of park
 STR_3296    :Change name of scenario
@@ -2272,7 +2272,7 @@ STR_3318    :Select which group this scenario appears in
 STR_3319    :{WINDOW_COLOUR_2}Scenario Group:
 STR_3320    :Unable to save scenario file…
 STR_3321    :New objects installed successfully
-STR_3322    :{WINDOW_COLOUR_2}Objective: {BLACK}{STRINGID}
+STR_3322    :{WINDOW_COLOUR_2}wile: {BLACK}{STRINGID}
 STR_3326    :{WINDOW_COLOUR_2}(no image)
 STR_3327    :Starting positions for people not set
 STR_3328    :Can’t advance to next editor stage…
@@ -2717,17 +2717,17 @@ STR_5615    :L
 STR_5616    :Last element for tile flag
 STR_5617    :Move selected element up.
 STR_5618    :Move selected element down.
-STR_5619    :RollerCoaster Tycoon
-STR_5620    :Added Attractions
-STR_5621    :Loopy Landscapes
-STR_5622    :RollerCoaster Tycoon 2
-STR_5623    :Wacky Worlds
-STR_5624    :Time Twister
-STR_5625    :“Real” Parks
+STR_5619    :musi pali pi ilo tawa musi
+STR_5620    :musi sin
+STR_5621    :ma tawa sike
+STR_5622    :musi nanpa tu
+STR_5623    :ma nasa
+STR_5624    :tenpo tawa sike
+STR_5625    :ma lon
 STR_5626    :Other Parks
 STR_5630    :Enable progressive unlocking
-STR_5631    :Original DLC Parks
-STR_5632    :Build your own…
+STR_5631    :ma sin
+STR_5632    :o pali e…
 STR_5633    :CMD + 
 STR_5634    :OPTION + 
 STR_5635    :{WINDOW_COLOUR_2}Money spent: {BLACK}{CURRENCY2DP}
@@ -2840,7 +2840,7 @@ STR_5780    :Running cost: {CURRENCY2DP} per hour
 STR_5781    :Running cost: Unknown
 STR_5782    :You are now connected. Press ‘{STRING}’ to chat.
 STR_5783    :{WINDOW_COLOUR_2}Scenario Locked
-STR_5784    :{BLACK}Complete earlier scenarios to unlock this scenario.
+STR_5784    :{BLACK}o pini e tenpo ante la sina kama jo e tenpo ni.
 STR_5785    :Can’t rename group…
 STR_5786    :Invalid group name
 STR_5787    :{COMMA32} players online
@@ -3512,8 +3512,8 @@ STR_6514    :Invalid height!
 STR_6515    :{BLACK}RollerCoaster Tycoon 1 not linked - fallback images will be used.
 STR_6516    :One or more objects added require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
 STR_6517    :One or more objects in this park require RollerCoaster Tycoon 1 linked for proper display. Fallback images will be used.
-STR_6518    :{BLACK}Hover over a scenario to view its description and objective. Click it to start playing.
-STR_6519    :Extras
+STR_6518    :{BLACK}o pana e luka tawa tenpo la sina lukin e toki e wile. o pilin e ni la open.
+STR_6519    :namako
 STR_6520    :Asset Packs
 STR_6521    :Low Priority
 STR_6522    :High Priority
